@@ -5,6 +5,11 @@ Polymarket Bot, Polymarket Trading Bot, Polymarket 5min market Trading Bot, Poly
 A high-performance, automated trading system for [Polymarket](https://polymarket.com) prediction markets. Built in Python with real-time WebSocket streaming, gasless L2 execution, and a risk-management framework suited to short-term and high-frequency environments.
 
 
+
+<img width="1058" height="698" alt="image" src="https://github.com/user-attachments/assets/fbe3a09e-e33b-40d7-8eed-d0cfe2f54caa" />
+
+
+
 ## Contact
 
 | Channel | Link |
@@ -32,10 +37,9 @@ https://github.com/user-attachments/assets/b038aa3b-e42b-4f72-ac5d-a130cdb56a9f
 ---
 ## Screenshot
 
+<img width="1384" height="895" alt="github-update-1" src="https://github.com/user-attachments/assets/e95f5fd9-df93-4d8f-be58-bee7568619c0" />
 
-<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/edeea17f-ceb4-449a-a961-5da5e8abbd87" />
-
-<img width="1443" height="894" alt="image" src="https://github.com/user-attachments/assets/3b059826-5f54-481a-a684-e5a8c4e0fabc" />
+<img width="1489" height="920" alt="github-update-3" src="https://github.com/user-attachments/assets/33237de3-cd03-4a27-9c78-13455b925572" />
 
 
 **Status:** Live trading supported. Optional web dashboard available at configured domain.
