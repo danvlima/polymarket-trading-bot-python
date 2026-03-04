@@ -19,6 +19,10 @@ A high-performance, automated trading system for [Polymarket](https://polymarket
 | **X (Twitter)** | [@benjaminccup](https://x.com/benjaminccup) |
 
 ---
+
+## If you'd like, I can show you a profitable bot in action through a meeting.
+
+
 ## Recording Video
 
 
@@ -42,7 +46,14 @@ https://github.com/user-attachments/assets/b038aa3b-e42b-4f72-ac5d-a130cdb56a9f
 <img width="1489" height="920" alt="github-update-3" src="https://github.com/user-attachments/assets/33237de3-cd03-4a27-9c78-13455b925572" />
 
 
-**Status:** Live trading supported. Optional web dashboard available at configured domain.
+---
+## Telegram Trial Version Bot
+You can also test the bot directly on Telegram.
+
+**@benjamincup_polymarket_bot[https://t.me/benjamincup_polymarket_bot]**
+
+<img width="458" height="305" alt="image" src="https://github.com/user-attachments/assets/5d59a2fd-400c-4e43-a49b-6b7cff6c4522" />
+
 
 ---
 
